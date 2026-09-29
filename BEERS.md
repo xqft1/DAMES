@@ -225,6 +225,8 @@ No 48-page yield diagram required.
 
 # VII. THE DAMES / BEERS V4 HOOK
 
+APPROVED HOOK: https://github.com/xqft1/BEERS-DAMES-V4
+
 The DAMES/BEERS market goes beyond simple meme lore.
 
 A dedicated **Uniswap V4 hook** was created for the pair.
@@ -236,8 +238,8 @@ The design adds a burn mechanic directly to trading activity.
 On qualifying DAMES/BEERS swaps, the hook is designed so that:
 
 ```text
-2% of DAMES involved in the trade → burn
-2% of BEERS involved in the trade → burn
+1% of DAMES involved in the trade → burn
+1% of BEERS involved in the trade → burn
 ```
 
 The intention is to make market activity destructive to token supply rather than purely extractive.
