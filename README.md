@@ -1047,7 +1047,7 @@ https://nlm4t-jaaaa-aaaab-qhg4a-cai.icp0.io/
 
 ## Disclaimer
 
-DAMES is experimental smart-contract software.
+DAMES is experimental smart-contract software. We are fans of Bundled Pepe and will support them where we can.
 
 Testing, fuzzing and invariant testing can substantially improve confidence in a system but cannot prove the absence of all vulnerabilities. The contracts should not be considered a substitute for an independent professional security audit.
 
